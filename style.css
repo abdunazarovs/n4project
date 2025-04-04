@@ -1,0 +1,31 @@
+body{
+    margin:20px
+}
+header{
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+   
+   
+}
+
+.svgnav{
+    display: flex;
+    justify-content: space-between;
+}
+.texts{
+    display: flex;
+    gap:40px;
+}
+.igh{
+    width:100px;
+    height:50px;
+    background-color:greenyellow;
+    color:white;
+    border-radius:10px;
+    border:2px solid greenyellow;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
